@@ -1,0 +1,22 @@
+body {
+    margin: 0 auto;
+    width: 800px;
+    text-align: center;
+}
+.red {
+    background-color: red;
+}
+.yellow {
+    background-color: yellow;
+}
+.pink {
+    background-color: pink;
+}
+button {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+h2 {
+    font-size: 4rem;
+}
